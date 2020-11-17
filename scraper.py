@@ -13,3 +13,5 @@ def write_line(line):
         file.write('\n')
 
 # WRITE YOUR CODE BELOW THIS LINE
+for link in soup.find_all('div', class='product_pod')
+    print(soup.get_text('http://books.toscrape.com/'))
